@@ -1,0 +1,13 @@
+@media screen and (max-width: 858px) {
+    #desktop-nav {
+        display: none;
+    }
+    #hamburger-nav {
+        display: flex;
+    }
+
+    .last-image {
+        width: 640px;
+        height: 416px;
+    }
+}
